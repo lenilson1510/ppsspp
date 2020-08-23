@@ -18,6 +18,7 @@
 #include <map>
 #include <algorithm>
 #include <cstring>
+#include <cfloat>
 
 #include <d3d11.h>
 
